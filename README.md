@@ -101,6 +101,6 @@ Buka browser dan kunjungi: http://localhost:3000
 ![alt text](image-12.png)
 
 # Struktur Database
-![alt text](image-14.png)
+![alt text](image-17.png)
 ![alt text](image-15.png)
 ![alt text](image-16.png)
